@@ -116,6 +116,10 @@ curl -sO http://54.172.174.135:8080/jnlpJars/agent.jar
 java -jar agent.jar -url http://54.172.174.135:8080/ -secret 59b0a112fb05723a5aeb9fcf5933a08eacb4d1bd8e34a4210b37aa54ed1517c5 -name slave -webSocket -workDir "/home/ec2-user/jenkins"
 
 
+use the token for webhook 403 error 
+https://www.youtube.com/watch?v=wtdbReb7r7s
+
+
 
 
 
